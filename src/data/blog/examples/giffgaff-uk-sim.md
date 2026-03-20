@@ -1,6 +1,6 @@
 ---
 author: Admin
-pubDatetime: 2026-03-20T14:00:00Z
+pubDatetime: 2026-01-01T14:00:00Z
 title: 零月租？英国 Giffgaff 手机卡在国内长期保号与使用攻略
 postSlug: giffgaff-uk-sim-guide
 featured: false

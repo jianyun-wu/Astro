@@ -1,6 +1,6 @@
 ---
 author: Admin
-pubDatetime: 2026-03-20T12:00:00Z
+pubDatetime: 2026-01-01T12:00:00Z
 title: 2026年中国用户如何注册 Wise？避坑指南与入金激活全过程
 postSlug: wise-china-guide-2026
 featured: true

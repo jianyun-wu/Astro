@@ -1,6 +1,6 @@
 ---
 author: Admin
-pubDatetime: 2026-03-20T16:00:00Z
+pubDatetime: 2026-01-01T16:00:00Z
 title: 2026 赴港开户指南：中银香港、汇丰与众安银行（ZA Bank）实测
 postSlug: hk-banking-guide-2026
 featured: false
