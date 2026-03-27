@@ -23,10 +23,10 @@ const { noMarginTop = false, class: className, ...attrs } = Astro.props;
     ]}
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>Copyright &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>All rights reserved.</span>
-    </div>
+   <div class="mt-4 flex flex-row items-center justify-center space-x-4 text-sm text-skin-base/80">
+        <a href="/about" class="hover:text-skin-accent hover:underline">关于我们 (About)</a>
+        <span>|</span>
+        <a href="/privacy" class="hover:text-skin-accent hover:underline">隐私政策 (Privacy)</a>
+      </div>
   </div>
 </footer>
